@@ -24,3 +24,18 @@ const categories="Categories";
 const cart="Cart";
 const account="Account";
 const searchanything="Search anything...",todayDeal="Today's Deal",flashsale="Flash Sale",topBrand="Top Brands",topCategory="Categories",topSeller="Top Seller's",featuredcategory="Featured Categories";
+const womenDress="Women Dress",
+    girlsWatches="Girls Watches",mobilePhone="Mobile Phone",
+    boysGlasses="Boys Glasses",tShirts="T-Shirts",
+    girlsDress="Girls Dress";
+const featuredProduct="Featured Product";
+
+const womenClothing="Women Clothing",
+    menClothing="Men Clothing & Fashion",
+    compAccess="Computer & Accessories",
+    automobile="Automobile",
+    kidtoys="Kids & Toys",
+    sports="Sports",
+    jewellery="Jewellery",
+    cellPhone="Cell Phone & Tab",
+    furniture="Furniture";
